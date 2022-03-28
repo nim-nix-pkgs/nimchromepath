@@ -11,6 +11,7 @@
   inputs.src-nimchromepath-master.ref   = "refs/heads/master";
   inputs.src-nimchromepath-master.owner = "felipetesc";
   inputs.src-nimchromepath-master.repo  = "NimChromePath";
+  inputs.src-nimchromepath-master.dir   = "";
   inputs.src-nimchromepath-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668748908,
-        "narHash": "sha256-FYqnAsJ2M+Zlz75GSL/l2d8oKQJJ95QqH+CvXSl0Klk=",
+        "lastModified": 1668754674,
+        "narHash": "sha256-VHvu6llWy+4w8QJnz047c/N1hY/nq3n/d37ZXCM9H94=",
         "owner": "nim-nix-pkgs",
         "repo": "nimchromepath",
-        "rev": "d4cc1e005687d328a84e20ccba6918573781bee3",
+        "rev": "5709427ce1b2d2bbac8dbb3ba5ba3e86f60b455b",
         "type": "github"
       },
       "original": {
